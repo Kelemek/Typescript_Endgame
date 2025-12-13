@@ -169,6 +169,8 @@ button.new-game {
     display: block;
     margin-inline: auto;
     cursor: pointer;
+    font-size: large;
+    font-weight: bold;
 }
 
 .sr-only {
